@@ -9,6 +9,8 @@ ERROR: ResolutionImpossible: for help visit https://pip.pypa.io/en/latest/topics
 - uvicorn api:app --host 0.0.0.0 --port 8000
 -  pip install faiss-cpu
 
+pip install reportlab
+
 
 
 
